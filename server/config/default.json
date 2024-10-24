@@ -1,0 +1,5 @@
+{
+  "serverPort" : 3000,
+  "dbUrl" : "mongodb+srv://admin:workdb@cloud.updnc.mongodb.net/?retryWrites=true&w=majority&appName=Cloud",
+  "secretKey" : "mern-secret-key"
+}
